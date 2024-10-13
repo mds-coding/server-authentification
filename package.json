@@ -1,0 +1,23 @@
+{
+  "name": "@mdos-san/server-authentification",
+  "version": "0.1.0",
+  "description": "Authentification server made with express-js",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdos-san/server-authentification.git"
+  },
+  "author": "mdos-san",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdos-san/server-authentification/issues"
+  },
+  "homepage": "https://github.com/mdos-san/server-authentification#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "express": "^4.21.1"
+  }
+}
